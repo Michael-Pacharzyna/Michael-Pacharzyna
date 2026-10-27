@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Michael Pacharzyna 👋
 
-<!--
-**Michael-Pacharzyna/Michael-Pacharzyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+15yo freelancer with court approval pursuant to Section 112 (1), sentence 1 BGB (German Civil Code).
 
-Here are some ideas to get you started:
+`Full-Stack Developer` from Schleswig-Holstein, Germany 🇩🇪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy coding with React, Next.js, and Laravel.
+
+Currently `open to freelance` opportunities and collaborations.
+
+## Contact
+
+* Email: [mail@just-lab.de](mailto:mail@just-lab.de)
+* LinkedIn: [Michael Pacharzyna](https://www.linkedin.com/in/michael-pacharzyna-1b1647395/)
+* Discord: @michael.just_lab_de
+* Twitter: [@Just_Lab_de](https://x.com/Just_Lab_de)
